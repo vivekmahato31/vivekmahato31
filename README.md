@@ -1,6 +1,10 @@
-<h1 align="center">Hi 👋, I'm Vivek Mahato</h1>
+<h1 align="center">
+Hi 👋, I'm Vivek Mahato
+</h1>
 
-<h3 align="center">A Java Backend Developer in Progress from India</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=Java+Backend+Developer+in+Progress;Learning+DSA+%7C+Building+Projects;Exploring+Spring+Boot+%26+Backend" />
+</p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
