@@ -3,7 +3,7 @@ Hi 👋, I'm Vivek Mahato
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Java+%7C+MERN+Developer+in+Progress;Learning+DSA+%7C+Building+Projects;Exploring+Full+Stack+Development" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Java+Developer+in+Progress;Learning+DSA+%7C+Building+Projects;Exploring+Backend+Development" />
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
@@ -11,18 +11,19 @@ Hi 👋, I'm Vivek Mahato
 
 <p align="left"> 
 
-
 - 🎓 I'm currently pursuing **B.Tech in Computer Science Engineering**
 
-- ☕ I have a strong foundation in **Core Java, OOPs & Programming Fundamentals**
+- ☕ Building a strong foundation in **Core Java, OOPs & Object-Oriented Design**
 
-- 💻 I’m currently learning **MERN Stack Development**
+- 🧩 Practicing **Data Structures & Algorithms using Java**
 
-- 🧩 I’m practicing **Data Structures & Algorithms**
+- 🚀 Currently learning **Java Backend Development with Spring Boot**
 
-- 🌱 Exploring **React, Node.js, Express.js & MongoDB**
+- 🛠️ Building projects to improve my **Programming & Software Development skills**
 
-- 💬 Ask me about **Java, JavaScript, Programming & Problem Solving**
+- 🌱 Exploring **SQL, REST APIs, Databases & Backend Architecture**
+
+- 💬 Ask me about **Java, DSA, OOPs & Problem Solving**
 
 </p>
 
@@ -51,7 +52,7 @@ Hi 👋, I'm Vivek Mahato
 <p align="left">
 
 <a>
-<img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,express,mongodb,mysql,git,github,linux,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,github,linux,vscode,idea" />
 </a>
 
 </p>
@@ -61,8 +62,6 @@ Hi 👋, I'm Vivek Mahato
 
 
 <p align="center">
-
-<!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=vivekmahato31&show_icons=true&theme=tokyonight&hide_border=true" /> -->
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekmahato31&theme=tokyonight&hide_border=true" />
 
