@@ -3,7 +3,7 @@ Hi 👋, I'm Vivek Mahato
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=Java+Backend+Developer+in+Progress;Learning+DSA+%7C+Building+Projects;Exploring+Spring+Boot+%26+Backend" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Java+%7C+MERN+Developer+in+Progress;Learning+DSA+%7C+Building+Projects;Exploring+Full+Stack+Development" />
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
@@ -14,15 +14,15 @@ Hi 👋, I'm Vivek Mahato
 
 - 🎓 I'm currently pursuing **B.Tech in Computer Science Engineering**
 
-- ☕ I’m currently learning **Core Java, OOPs & Backend Development**
+- ☕ I have a strong foundation in **Core Java, OOPs & Programming Fundamentals**
+
+- 💻 I’m currently learning **MERN Stack Development**
 
 - 🧩 I’m practicing **Data Structures & Algorithms**
 
-- 🚀 Currently building **Library Management System using Java & Swing**
+- 🌱 Exploring **React, Node.js, Express.js & MongoDB**
 
-- 🌱 Exploring **Spring Boot, REST APIs & Database Development**
-
-- 💬 Ask me about **Java, Programming & Problem Solving**
+- 💬 Ask me about **Java, JavaScript, Programming & Problem Solving**
 
 </p>
 
@@ -51,10 +51,11 @@ Hi 👋, I'm Vivek Mahato
 <p align="left">
 
 <a>
-<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,linux,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,express,mongodb,mysql,git,github,linux,vscode,idea" />
 </a>
 
 </p>
+
 
 <h3 align="center">📊 GitHub Analytics</h3>
 
